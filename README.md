@@ -30,6 +30,7 @@ Synthetic blood products offer transformative potential for emergency medicine:
 - Cindy Von Ahlefeldt (Co-Researcher)
 - Valentina Ezcurra (Co-Researcher)  
 - Anamaria Acevedo Diaz (Co-Researcher)
+- Sara Willox (Co-Researcher)
 - Dr. Mustapha Mouloua (Principal Investigator) - Mustapha.Mouloua@ucf.edu
 
 ## Key Features
