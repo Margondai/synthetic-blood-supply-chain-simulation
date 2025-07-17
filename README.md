@@ -14,7 +14,7 @@ Paper: "Simulation-Based Optimization of Synthetic Blood Production and Deployme
 Conference: MODSIM World 2025 (Accepted)  
 Lead Researcher: Soraya Hani  
 Code Developer: Ancuta Margondai  
-Institution**: University of Central Florida  
+Institution: University of Central Florida  
 
 # What is Synthetic Blood?
 
